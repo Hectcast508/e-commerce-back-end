@@ -24,6 +24,8 @@ npm dotenv express mysql2 sequelize
 
 ## Demo Video
 
+![Demo](./assets/DemoVideo.gif)
+
 ## Questions
 
 If you have any questions. Contact me at hectcast10@yahoo.com.
